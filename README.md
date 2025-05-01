@@ -148,4 +148,8 @@ O roteamento do Razor Pages é baseado em uma convenção: o arquivo ``Index.csh
 
 # Exercicio 12
 ####  Codigo:
+![img_23.png](img_23.png)
+![img_24.png](img_24.png)
 #### Resultado:
+![img_22.png](img_22.png)
+![img_21.png](img_21.png)

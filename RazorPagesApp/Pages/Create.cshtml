@@ -1,0 +1,20 @@
+﻿@page
+@model RazorPagesApp.Pages.CreateModel
+@{
+    ViewData["Title"] = "Cadastrar Evento";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <label>Título:</label><br />
+    <input type="text" name="Evento.Titulo" /><br /><br />
+
+    <label>Data:</label><br />
+    <input type="date" name="Evento.Data" /><br /><br />
+
+    <label>Local:</label><br />
+    <input type="text" name="Evento.Local" /><br /><br />
+
+    <button type="submit">Cadastrar</button>
+</form>
