@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\RazorPagesApp\\RazorPagesApp.csproj": {}
+    "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\RazorPagesApp\\RazorPagesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\RazorPagesApp\\RazorPagesApp.csproj": {
+    "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\RazorPagesApp\\RazorPagesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectUniqueName": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\RazorPagesApp\\RazorPagesApp.csproj",
         "projectName": "RazorPagesApp",
-        "projectPath": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectPath": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\RazorPagesApp\\RazorPagesApp.csproj",
         "packagesPath": "C:\\Users\\jlbraga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\RazorPagesApp\\obj\\",
+        "outputPath": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\RazorPagesApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

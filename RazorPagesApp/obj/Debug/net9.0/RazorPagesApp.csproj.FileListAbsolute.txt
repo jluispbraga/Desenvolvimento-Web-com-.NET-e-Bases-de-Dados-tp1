@@ -96,3 +96,14 @@ C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1
 C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\ConsoleApp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
 C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\ConsoleApp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.genruntimeconfig.cache
 C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\ConsoleApp1\RazorPagesApp\obj\Debug\net9.0\ref\RazorPagesApp.dll
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfoInputs.cache
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.AssemblyInfo.cs
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cache
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.RazorAssemblyInfo.cs
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.sourcelink.json
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.dll
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\refint\RazorPagesApp.dll
+C:\Users\jlbraga\RiderProjects\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\RazorPagesApp\obj\Debug\net9.0\RazorPagesApp.pdb
