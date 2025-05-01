@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVU/y4zCUw8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\jlbraga\\RiderProjects\\Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1\\ConsoleApp1\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}
