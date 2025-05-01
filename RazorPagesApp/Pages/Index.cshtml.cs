@@ -22,5 +22,10 @@ namespace RazorPagesApp.Pages
             Produtos.Add(new Produto { Nome = "Produto 3", Preco = 30.0m });
         }
     }
-
+    
+    public class Produto
+    {
+        public string Nome { get; set; }
+        public decimal Preco { get; set; }
+    }
 }

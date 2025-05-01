@@ -1,6 +1,6 @@
 # Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1
 
-## Para verificar os exercicios de 8 e 9 favor entrar no projeto RazorPagesApp
+## Para verificar os exercicios de 8 ate 12 favor entrar no projeto RazorPagesApp
 
  - Abrir o terminal 
  - cd RazorPagesApp
@@ -135,11 +135,16 @@ O roteamento do Razor Pages é baseado em uma convenção: o arquivo ``Index.csh
 
 # Exercicio 10
 ####  Codigo:
+![img_18.png](img_18.png)
+
 #### Resultado:
+![img_17.png](img_17.png)
 
 # Exercicio 11
 ####  Codigo:
+![img_20.png](img_20.png)
 #### Resultado:
+![img_19.png](img_19.png)
 
 # Exercicio 12
 ####  Codigo:

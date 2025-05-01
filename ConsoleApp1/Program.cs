@@ -22,9 +22,7 @@ class Program
             Console.WriteLine("5 - Notificação de Download");
             Console.WriteLine("6 - Log com Multicast Delegate");
             Console.WriteLine("7 - Log com Invocação Segura");
-            Console.WriteLine("10 - Jogo de Adivinhação");
-            Console.WriteLine("11 - Conversor de Temperatura");
-            Console.WriteLine("12 - Filtro de Lista com Predicate");
+            Console.WriteLine("11 - Manipulação de Strings com Delegates Encadeados");
             Console.WriteLine("Pressione Enter para sair.");
 
             response = Console.ReadLine();
@@ -38,9 +36,7 @@ class Program
                 case "5": Ex_5(); break;
                 case "6": Ex_6(); break;
                 case "7": Ex_7(); break;
-                case "10": Ex_10(); break; 
-                case "11": Ex_11(); break; 
-                case "12": Ex_12(); break;
+                case "11": Ex_11(); break;
                 case "":
                     Console.WriteLine("Saindo...");
                     return;
@@ -247,5 +243,35 @@ class Program
 
         Console.WriteLine("Log seguro concluído.");
         Console.ReadKey();
+    }
+
+    public static void Ex_11()
+    {
+        Func<string, string, string> concat = (nome, sobrenome) =>
+        {
+            var resultado = $"{nome} {sobrenome}";
+            Console.WriteLine($"[Concatenação] {resultado}");
+            return resultado;
+        };
+
+        Func<string, string, string> paraMaiusculas = (nome, sobrenome) =>
+        {
+            var resultado = $"{nome} {sobrenome}".ToUpper();
+            Console.WriteLine($"[Maiúsculas] {resultado}");
+            return resultado;
+        };
+
+        Func<string, string, string> removerEspacos = (nome, sobrenome) =>
+        {
+            var resultado = $"{nome}{sobrenome}".Replace(" ", "");
+            Console.WriteLine($"[Sem espaços] {resultado}");
+            return resultado;
+        };
+
+        Func<string, string, string> pipeline = concat + paraMaiusculas + removerEspacos;
+
+        string resultadoFinal = pipeline("João", "Silva");
+
+        Console.WriteLine($"\n🔹 Resultado final retornado pelo delegate: {resultadoFinal}");
     }
 }
