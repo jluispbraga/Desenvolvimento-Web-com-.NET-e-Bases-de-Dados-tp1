@@ -1,6 +1,6 @@
 # Desenvolvimento-Web-com-.NET-e-Bases-de-Dados-tp1
 
-## Para verificar os exercicios de 8 e 9 favor entrar no projeto RazorPagesApp
+## Para verificar os exercicios de 8 ate 12 favor entrar no projeto RazorPagesApp
 
  - Abrir o terminal 
  - cd RazorPagesApp

@@ -22,9 +22,6 @@ class Program
             Console.WriteLine("5 - Notificação de Download");
             Console.WriteLine("6 - Log com Multicast Delegate");
             Console.WriteLine("7 - Log com Invocação Segura");
-            Console.WriteLine("10 - Jogo de Adivinhação");
-            Console.WriteLine("11 - Conversor de Temperatura");
-            Console.WriteLine("12 - Filtro de Lista com Predicate");
             Console.WriteLine("Pressione Enter para sair.");
 
             response = Console.ReadLine();
@@ -38,9 +35,6 @@ class Program
                 case "5": Ex_5(); break;
                 case "6": Ex_6(); break;
                 case "7": Ex_7(); break;
-                case "10": Ex_10(); break; 
-                case "11": Ex_11(); break; 
-                case "12": Ex_12(); break;
                 case "":
                     Console.WriteLine("Saindo...");
                     return;
